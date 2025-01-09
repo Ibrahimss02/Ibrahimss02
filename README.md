@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 A student currently exploring the world of technologies from Android to Web Development, from Graphic & UI Design to Game Development.
+🌱 Developer currently exploring the world of technologies from Android to Web Development, from Graphic & UI Design to Game Development.
 
 
 ## 🌐 Socials:
